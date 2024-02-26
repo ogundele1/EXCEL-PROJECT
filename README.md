@@ -16,13 +16,13 @@ To analyze the Online Booking Orders to help Management review the current perfo
 
 <p align="center">
 
-<img src="https://imgur.com/s4l1Ag8.png" height="50%" width="30%" >
+<img src="https://imgur.com/s4l1Ag8.png" height="80%" width="80%" >
 
 <h2>WORKFLOW</h2>
 
 <p align="center">
 
-<img src="https://imgur.com/6uadQYB.jpeg" height="25%" width="40%" >
+<img src="https://imgur.com/6uadQYB.jpeg" height="80%" width="80%" >
 
 <br />
 
