@@ -36,7 +36,7 @@ To analyze the Online Booking Orders to help Management review the current perfo
 
 <p align="center">
 
-<img src="https://imgur.com/JQQDFmb.png" height="80%" width="80%" >
+<img src="https://imgur.com/6n6hxYQ.png" height="80%" width="80%" >
 <h2>Slicers and connections</h2>
 
 <p align="center">
